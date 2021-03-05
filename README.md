@@ -33,7 +33,7 @@ gxl-file: [example_output/JDoe1.png.gxl](example_output/JDoe1.png.gxl)
 ## Publications
 This implementation of skeleton graphs or keypoint graphs<sup>1</sup> have been use in the following publications: 
 
-* P. Maergner, K. Riesen, R. Ingold, and A. Fischer (Apr. 2020). **“Signature Verification via Graph-Based Methods”**. In: Handbook of Pattern Recognition and Computer Vision. Ed. byC. H. Chen. World Scientific, pp. 305–322.
+* P. Maergner, K. Riesen, R. Ingold, and A. Fischer (Apr. 2020). **“Signature Verification via Graph-Based Methods”**. In: Handbook of Pattern Recognition and Computer Vision. Ed. by C. H. Chen. World Scientific, pp. 305–322.
   [[World Scientific]](https://www.worldscientific.com/doi/10.1142/9789811211072_0016)
   
 * P. Maergner, N. Howe, K. Riesen, R. Ingold, and A. Fischer (June 2019). **“Graph-Based Offline Signature Verification”**. In: arXiv:1906.10401 [cs]. arXiv:1906.10401 [cs].
@@ -48,7 +48,7 @@ This implementation of skeleton graphs or keypoint graphs<sup>1</sup> have been 
 * P. Maergner, N. Howe, K. Riesen, R. Ingold, and A. Fischer (2018). **“Offline Signature Verification via Structural Methods: Graph Edit Distance and Inkball Models”**. In: Proc. of Int. Conf. on Frontiers in Handwriting Recognition (ICFHR), pp. 163–168.
   [[IEEE Xplore]](https://ieeexplore.ieee.org/document/8563244)
   
-* P. Maergner, V. Pondenkandath, M. Alberti, M. Liwicki, K. Riesen, R. Ingold, and A. Fischer (2018). **“Offline Signature Verification by Combining Graph Edit Distance and Triplet Networks”**. In:Structural, Syntactic, and Statistical Pattern Recognition, pp. 470–480.
+* P. Maergner, V. Pondenkandath, M. Alberti, M. Liwicki, K. Riesen, R. Ingold, and A. Fischer (2018). **“Offline Signature Verification by Combining Graph Edit Distance and Triplet Networks”**. In: Structural, Syntactic, and Statistical Pattern Recognition, pp. 470–480.
   [[Springer]](https://link.springer.com/chapter/10.1007%2F978-3-319-97785-0_45)
   [[arXiv]](https://arxiv.org/abs/1810.07491)
   
