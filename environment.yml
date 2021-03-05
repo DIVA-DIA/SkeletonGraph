@@ -1,0 +1,12 @@
+name: SkeletonGraph
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pillow=4.3.0
+  - numpy=1.13.3
+  - scipy=0.19.1
+  - networkx=1.11
+  - matplotlib=2.0.2
+  - scikit-image=0.13.1
+  - PyYAML=3.12
