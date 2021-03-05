@@ -20,4 +20,11 @@ optional arguments:
 ```
 
 ## example run
-```python run.py -i example_images/JDoe1.png -d -o JDoe1.png.gxl```
+### command:
+```python run.py -i example_images/JDoe1.png -d -o example_output/JDoe1.png.gxl```
+
+### output gxl-file (-o, --output)
+[example_output/JDoe1.png.gxl](example_output/JDoe1.png.gxl)
+
+### output display (-d, --display)
+![example_output/JDoe1.png.display.png](example_output/JDoe1.png.display.png)
